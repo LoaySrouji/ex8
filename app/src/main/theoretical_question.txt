@@ -1,0 +1,9 @@
+implementation a:
+
+pro: We don't to have connect with the server for every request
+con: Every one has access to the data we store locally, and it's easy to get information
+about other users
+
+implementation b:
+pro: our information is more secured
+cons: we need to connect with the server  for every request
